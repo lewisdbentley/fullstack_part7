@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "foo": "bar",
+      "id": 3
+    },
+    {
+      "content": "One thing that I like about React is that it allows me to write my components like little black boxes of abstraction.",
+      "id": 4
+    },
+    {
+      "content": "I can look at a design and draw lines around the UI elements and I know the components that I'm going to be making.",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Kent Dodds",
+      "number": "07986330822",
+      "id": 2
+    }
+  ]
+}
